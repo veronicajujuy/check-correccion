@@ -3,3 +3,6 @@ node_modules/
 .env.local
 
 token.js
+# Local Netlify folder
+.netlify
+functions
